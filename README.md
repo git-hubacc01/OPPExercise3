@@ -1,8 +1,5 @@
 # OPPExercise3
 #Lab Exercise 3
-
-For Educational Purposes 
-
 • Create a new project named OOPExercise3 and create the following 3 classes
 
 1. Any class containing at least 1 attribute, accessor and mutator methods and at least 2 objects (see Car class as example)
